@@ -11,3 +11,5 @@ qt test
 * The compilers that do work in my laptop
     * MinGW 32-bit
     * MinGW 64-bit
+
+* When you build OpenCV using CMake, the directory of the source code is `.../opencv/source`, not `.../opencv`
