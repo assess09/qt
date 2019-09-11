@@ -14,4 +14,6 @@ qt+openCV test
     * openCV version: 3.4
     * The other versions did not work in my laptop
 
+* `~.pro` followed the instruction from the link above
+* `main.cpp` followed the instruction from the book
 
