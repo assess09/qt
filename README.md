@@ -2,6 +2,7 @@
 qt+openCV test
 
 # Note
+
 * Installation tutorial
     * https://m.blog.naver.com/PostView.nhn?blogId=nortul&logNo=221178308242&proxyReferer=https%3A%2F%2Fwww.google.com%2F
     * Other install tutorials did not work in my laptop
