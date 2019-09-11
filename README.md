@@ -16,3 +16,6 @@ qt+openCV test
 
 * `~.pro` followed the instruction from the link above
 * `main.cpp` followed the instruction from the book
+* qt+openCV test image
+
+![](images/qtCvTest.PNG)
