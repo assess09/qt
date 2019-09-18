@@ -17,6 +17,8 @@ qt+openCV test
 
 * `~.pro` followed the instruction from the link above
 * `main.cpp` followed the instruction from the [book](https://www.amazon.com/Computer-Vision-OpenCV-multithreaded-cross-platform/dp/178847239X)
+* `opencv.pri` is modified from the [book](https://www.amazon.com/Computer-Vision-OpenCV-multithreaded-cross-platform/dp/178847239X) to be applicable to my labtop
+
 * qt+openCV test image
 
 ![](images/qtCvTest.PNG)
