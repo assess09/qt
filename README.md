@@ -17,7 +17,7 @@ qt+openCV test
 
 * Textbook
    * [Computer Vision with OpenCV3 and Qt5](https://subscription.packtpub.com/book/application_development/9781788472395)
-   * [Code files in textbook](https://account.packtpub.com/getfile/9781788472395/code)
+   * Code files in textbook [[download]](https://account.packtpub.com/getfile/9781788472395/code)
 
 * Qt + OpenCV test image
 
