@@ -4,21 +4,21 @@ qt+openCV test
 # Note
 
 * Installation tutorial
-    * https://m.blog.naver.com/PostView.nhn?blogId=nortul&logNo=221178308242&proxyReferer=https%3A%2F%2Fwww.google.com%2F
-    * Other install tutorials did not work in my laptop
-    * Installing with the instruction from the link above is way better than instruction from [book](https://www.amazon.com/Computer-Vision-OpenCV-multithreaded-cross-platform/dp/178847239X) to work it out.
+    * [Qt installation](https://subscription.packtpub.com/book/application_development/9781788472395/1/ch01lvl1sec13/installing-qt)
+    * [OpenCV installation](https://subscription.packtpub.com/book/application_development/9781788472395/1/ch01lvl1sec14/installing-opencv)
+    * The versions of Qt and OpenCV are flexible as long as both of their compilers are identical.
     
-* Dev. environment
-    * os: Window 10 64bit
-    * qt versiton: 5.11.3
-    * qt compiler: MinGW 32bit
-    * openCV version: 3.4
-    * The other versions did not work in my laptop
+* Development environment
+    * OS: Window 10 64bit
+    * Qt versiton: 5.13.1
+    * Qt compiler: Visual Studio 14 2015 64bit
+    * OpenCV version: 3.4.6
+    * OpenCV build compiler: Visual Studio 14 2015 64bit
 
-* `~.pro` followed the instruction from the link above
-* `main.cpp` followed the instruction from the [book](https://www.amazon.com/Computer-Vision-OpenCV-multithreaded-cross-platform/dp/178847239X)
-* `opencv.pri` is modified from the [book](https://www.amazon.com/Computer-Vision-OpenCV-multithreaded-cross-platform/dp/178847239X) to be applicable to my labtop
+* Textbook
+   * [Computer Vision with OpenCV3 and Qt5](https://subscription.packtpub.com/book/application_development/9781788472395)
+   * [Code files in textbook](https://account.packtpub.com/getfile/9781788472395/code)
 
-* qt+openCV test image
+* Qt + OpenCV test image
 
 ![](images/qtCvTest.PNG)
